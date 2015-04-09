@@ -3,6 +3,6 @@ The map from here.com with additional traffic information. (com.grabow.commuter.
 
 ![alt tag](http://www.callr.it/wp-content/uploads/2015/01/here.png)
 <p>
-See more info from Nokia / Mircosofts here.com.
+Get more traffic info from Nokias / Mircosofts here.com map.
 
 (Zusätzliche Verkehrsinfos von here.com)
