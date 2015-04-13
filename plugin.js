@@ -1,5 +1,5 @@
 {
-    "moduleId" : " ... the name of the github repository ...",
+    "moduleId" : "mapman100/Here",
     "title" : "HERE",
     "subtitle" : "Map from here.com",
     
