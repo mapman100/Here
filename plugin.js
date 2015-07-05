@@ -4,7 +4,7 @@
     "subtitle" : "Map from here.com",
     
     "backButton" : true,
-    "enableGPS" : true,
+    "enableGPS" : false,
     "zoomControl" : false,
     "screenLockRot" : false,
     "reload" : true,
