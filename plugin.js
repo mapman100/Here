@@ -27,7 +27,10 @@
     
     if (localStorage.getItem('mh5-isFirstTime') === null) {
         // First time
-        localStorage.setItem('mh5-isFirstTime', true);        
+        localStorage.setItem('mh5-isFirstTime', true);
+        localStorage.setItem('b', true); 
+        localStorage.setItem('t', true); 
+        localStorage.setItem('nn', true); 
         var newSettings = {'trafficIncidentsEnabled':true,'mapSchema':'normal.day.traffic'};        
         localStorage.setItem('settings',JSON.stringify(newSettings));
     }
