@@ -24,8 +24,8 @@
 <script type='text/javascript'>
     
     // localStorage.clear();
-    document.cookie="USE_MOBILE=false";
-    document.cookie="FORCE_MHERE=true";
+    document.cookie='USE_MOBILE=false';
+    document.cookie='FORCE_MHERE=true';
     
     if (localStorage.getItem('mh5-isFirstTime') === null) {
         // First time
