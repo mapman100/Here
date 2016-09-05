@@ -24,8 +24,8 @@
 <script type='text/javascript'>
     
     // localStorage.clear();
-    document.cookie='USE_MOBILE=false; expires=Fri, 31 Dec 9999 23:59:59 GMT';
-    document.cookie='FORCE_MHERE=true; expires=Fri, 31 Dec 9999 23:59:59 GMT';
+    document.cookie='USE_MOBILE=false; expires=Fri, 31 Dec 9999 23:59:59 GMT; domain=.here.com;';
+    document.cookie='FORCE_MHERE=true; expires=Fri, 31 Dec 9999 23:59:59 GMT; domain=.here.com;';
     
     if (localStorage.getItem('mh5-isFirstTime') === null) {
         // First time
