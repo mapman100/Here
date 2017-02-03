@@ -1,5 +1,5 @@
 # Here
-The map from here.com with additional traffic information. (com.grabow.commuter.plugin)
+The new map from wego.here.com. Unfortunately NO TRAFFIC INFORMATION included. (com.grabow.commuter.plugin)
 
 ![alt tag](https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo_HERE.png)
 <p>
